@@ -8,6 +8,10 @@ int main()
     std::cout << "Hello World!\n";
 
 
+    int a = 5;
+    std::cout << a;
+
+
 
 
 }
